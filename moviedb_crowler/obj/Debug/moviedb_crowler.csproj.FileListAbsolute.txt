@@ -1,0 +1,10 @@
+D:\proje\osman abi\moviedb_crowler\moviedb_crowler\bin\Debug\moviedb_crowler.exe.config
+D:\proje\osman abi\moviedb_crowler\moviedb_crowler\bin\Debug\moviedb_crowler.exe
+D:\proje\osman abi\moviedb_crowler\moviedb_crowler\bin\Debug\moviedb_crowler.pdb
+D:\proje\osman abi\moviedb_crowler\moviedb_crowler\bin\Debug\TheMovieDb.dll
+D:\proje\osman abi\moviedb_crowler\moviedb_crowler\obj\Debug\moviedb_crowler.csprojResolveAssemblyReference.cache
+D:\proje\osman abi\moviedb_crowler\moviedb_crowler\obj\Debug\moviedb_crowler.Form1.resources
+D:\proje\osman abi\moviedb_crowler\moviedb_crowler\obj\Debug\moviedb_crowler.Properties.Resources.resources
+D:\proje\osman abi\moviedb_crowler\moviedb_crowler\obj\Debug\moviedb_crowler.csproj.GenerateResource.Cache
+D:\proje\osman abi\moviedb_crowler\moviedb_crowler\obj\Debug\moviedb_crowler.exe
+D:\proje\osman abi\moviedb_crowler\moviedb_crowler\obj\Debug\moviedb_crowler.pdb
